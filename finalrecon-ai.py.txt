@@ -1,0 +1,157 @@
+usage: finalrecon-ai.py [-h] [--url URL] [--link LINK] [--port PORT] [--full]
+                        [--ultimate-9065] [--reality-scan-all] [-w WORDLIST]
+                        [--rockyou] [--reality-core] [--reality-patterns]
+                        [--consciousness] [--cosmic] [--quantum]
+                        [--time-patterns] [--dimension] [--multiverse]
+                        [--ai-ml] [--biology] [--energy] [--cosmology]
+                        [--black-hole] [--warp] [--universal]
+                        [--delete-http-cookies] [--delete-https-cookies]
+                        [--delete-gws-cookies] [--delete-esf-cookies]
+                        [--delete-another-cookies] [--delete-cookies-data]
+                        [--delete-all-cookies] [--delete-complete-data]
+                        [--check-delete-all] [--okay-check] [--connection-map]
+                        [--response-time] [--deep-cookie-scan]
+                        [--security-audit] [--data-leak-detect]
+                        [--risk-assess] [--check-all-servers]
+                        [--full-suspicious-check] [-nb] [-version]
+
+FinalRecon-AI - Infinite Reality Edition v9065.0
+
+================================================================================
+    FINALRECON-AI 9065.0 - INFINITE REALITY EDITION
+    FILE: finalrecon-ai.py
+    VERSION 9065.0 - THE INFINITE FRAMEWORK
+
+  WARNING: Use ONLY on your own web server or authorized targets!
+  WARNING: WEB SERVER ONLY - NOT FOR LOCAL COMPUTER!
+================================================================================
+
+BASIC USAGE:
+  python3 finalrecon-ai.py --url https://example.com --full
+  python3 finalrecon-ai.py --url https://example.com --ultimate-9065
+  python3 finalrecon-ai.py --url https://example.com --reality-scan-all
+
+9065 NEW: INFINITE REALITY FEATURES
+================================================================================
+
+REALITY CORE:
+  python3 finalrecon-ai.py --url https://example.com --reality-core
+
+CONSCIOUSNESS:
+  python3 finalrecon-ai.py --url https://example.com --consciousness
+
+COSMIC:
+  python3 finalrecon-ai.py --url https://example.com --cosmic
+
+QUANTUM:
+  python3 finalrecon-ai.py --url https://example.com --quantum
+
+TIME:
+  python3 finalrecon-ai.py --url https://example.com --time-patterns
+
+DIMENSION:
+  python3 finalrecon-ai.py --url https://example.com --dimension
+
+MULTIVERSE:
+  python3 finalrecon-ai.py --url https://example.com --multiverse
+
+AI/ML:
+  python3 finalrecon-ai.py --url https://example.com --ai-ml
+
+BIOLOGY:
+  python3 finalrecon-ai.py --url https://example.com --biology
+
+ENERGY:
+  python3 finalrecon-ai.py --url https://example.com --energy
+
+COSMOLOGY:
+  python3 finalrecon-ai.py --url https://example.com --cosmology
+
+BLACK HOLE:
+  python3 finalrecon-ai.py --url https://example.com --black-hole
+
+WARP:
+  python3 finalrecon-ai.py --url https://example.com --warp
+
+UNIVERSAL:
+  python3 finalrecon-ai.py --url https://example.com --universal
+
+REALITY SCAN ALL:
+  python3 finalrecon-ai.py --url https://example.com --reality-scan-all
+
+9065 ULTIMATE:
+  python3 finalrecon-ai.py --url https://example.com --ultimate-9065
+
+2092: SERVER COOKIES DELETE
+================================================================================
+  --delete-http-cookies       Delete HTTP cookies
+  --delete-https-cookies      Delete HTTPS cookies
+  --delete-gws-cookies        Delete GWS cookies
+  --delete-esf-cookies        Delete ESF cookies
+  --delete-another-cookies    Delete ANOTHER cookies
+  --delete-cookies-data       Delete ALL cookies & data
+  --delete-all-cookies        Delete ALL cookies
+  --delete-complete-data      Delete complete data
+  --check-delete-all          Check & delete all
+  --okay-check                OKAY status check
+
+================================================================================
+
+options:
+  -h, --help            show this help message and exit
+
+Target Options:
+  --url URL             Target URL
+  --link LINK           Scan specific link(s)
+
+Basic Options:
+  --port PORT           Custom port
+  --full                Full reconnaissance
+  --ultimate-9065       9065 Ultimate - ALL features
+  --reality-scan-all    ALL 9065 modules
+  -w WORDLIST, --wordlist WORDLIST
+                        Wordlist path
+  --rockyou
+
+9065: INFINITE REALITY FEATURES:
+  --reality-core
+  --reality-patterns
+  --consciousness
+  --cosmic
+  --quantum
+  --time-patterns
+  --dimension
+  --multiverse
+  --ai-ml
+  --biology
+  --energy
+  --cosmology
+  --black-hole
+  --warp
+  --universal
+
+2092: SERVER COOKIES DELETE:
+  --delete-http-cookies
+  --delete-https-cookies
+  --delete-gws-cookies
+  --delete-esf-cookies
+  --delete-another-cookies
+  --delete-cookies-data
+  --delete-all-cookies
+  --delete-complete-data
+  --check-delete-all
+  --okay-check
+
+2092: SERVER FEATURES:
+  --connection-map
+  --response-time
+  --deep-cookie-scan
+  --security-audit
+  --data-leak-detect
+  --risk-assess
+  --check-all-servers
+  --full-suspicious-check
+
+Output Options:
+  -nb, --no-banner
+  -version              show program's version number and exit
